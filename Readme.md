@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mambaailabs-mambaai-badge.png)](https://mseep.ai/app/mambaailabs-mambaai)
+
 # 🛡️ MambaAI: The Ultimate Security Solution for #AI #Agents
 
 ## 1. Introduction
